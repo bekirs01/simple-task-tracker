@@ -1,20 +1,21 @@
 # Simple Task Tracker
 
-Bu proje, görevleri eklemek ve listelemek için yazılmış
-basit bir Python uygulamasıdır.
+Этот проект представляет собой простое приложение на Python для добавления
+и отображения задач.
 
-Amaç: çalışır kod, testler ve CI içeren örnek bir yazılım projesi sunmak.
+Цель проекта — продемонстрировать рабочий код, тесты и CI
+в виде минимального, но полноценного программного проекта.
 
-## Özellikler
-- Görev ekleme
-- Görevleri listeleme
-- JSON dosya ile veri saklama
+## Возможности
+- Добавление задач
+- Просмотр списка задач
+- Хранение данных в JSON-файле
 
-## Kullanılan Teknolojiler
+## Используемые технологии
 - Python
 - Pytest
 - GitHub Actions (CI)
 
-## Kurulum
+## Установка
 ```bash
 pip install -r requirements.txt
